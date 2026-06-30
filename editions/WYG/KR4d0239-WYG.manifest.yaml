@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4d0239/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0239/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 倪石陵書
+  date: '2015-08-25 00:00:25.501161'
+  source:
+    repository: kanripo
+    path: KR4d0239
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0239_000-WYG.yaml, hash: 'sha256:336ea6148b5747d5563dd869fd6cd0dad84d8249f3e43a4ecec1645f4f614c25'}
+  - {seq: 1, filename: KR4d0239_001-WYG.yaml, hash: 'sha256:9390687463549e5028c77b95e0398e31a45b0ed784cbb2f8a38123a16a102577'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0239_000-WYG.markers.yaml, hash: 'sha256:58d0e8dc4888cc18614acc4330a0554dae11f83a90c099d35a5d66842b49df22'}
+  - {seq: 1, role: markers, filename: assets/KR4d0239_001-WYG.markers.yaml, hash: 'sha256:308f42ddbbd1dc9372f5007ca42a04868ce816d29c00d75f86396fff9f4e7e05'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0239_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 413
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0239_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 14594
+  label: 倪石陵書
+  type: section
+  level: 1
+hash: sha256:cc620c8c3d2581520b52d7a0d60af4522a05ea954d3ff50c5a0422eb0cf6abb8
