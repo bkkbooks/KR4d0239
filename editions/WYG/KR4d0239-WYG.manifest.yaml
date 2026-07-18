@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4d0239_000-WYG.yaml, hash: 'sha256:336ea6148b5747d5563dd869fd6cd0dad84d8249f3e43a4ecec1645f4f614c25'}
   - {seq: 1, filename: KR4d0239_001-WYG.yaml, hash: 'sha256:9390687463549e5028c77b95e0398e31a45b0ed784cbb2f8a38123a16a102577'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0239_000-WYG.markers.yaml, hash: 'sha256:58d0e8dc4888cc18614acc4330a0554dae11f83a90c099d35a5d66842b49df22'}
-  - {seq: 1, role: markers, filename: assets/KR4d0239_001-WYG.markers.yaml, hash: 'sha256:308f42ddbbd1dc9372f5007ca42a04868ce816d29c00d75f86396fff9f4e7e05'}
+  - {seq: 0, role: markers, filename: assets/KR4d0239_000-WYG.markers.yaml, hash: 'sha256:ce5a25f8bc611752ac3af7cdb7a7c71d952cb6e49357db292b5a3361a9178c50'}
+  - {seq: 1, role: markers, filename: assets/KR4d0239_001-WYG.markers.yaml, hash: 'sha256:1fa72b1b6abe1c0286255b71f5ccf417667bd35c6dc9672d761a7affd537bc25'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 倪石陵書
   type: section
   level: 1
-hash: sha256:cc620c8c3d2581520b52d7a0d60af4522a05ea954d3ff50c5a0422eb0cf6abb8
+hash: sha256:61d723e1265811d19ca7c5a0ca14289c75cc23e3956914e75cacc28fb410c8fc

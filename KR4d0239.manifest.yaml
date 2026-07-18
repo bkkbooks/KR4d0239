@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4d0239_000.yaml, hash: 'sha256:1344503e4d06c1cbc115059f004005e0aee2bd1975e9d5b61faaecb747b60270'}
   - {seq: 1, filename: KR4d0239_001.yaml, hash: 'sha256:1025354f4fb00f02167f36303ca4de5d39c78d862ad58cd1894e5bb0dc26e8ba'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0239_000.markers.yaml, hash: 'sha256:8a58eeaf0f49deb70a0d3b46ddad75b9210443bbcdf4122c0dfc64c0ea0577cb'}
-  - {seq: 1, role: markers, filename: assets/KR4d0239_001.markers.yaml, hash: 'sha256:af1556e52d609afd2134e2d613cd6a4ec118ae7e1ea18b015ba9b684bd1cca1a'}
+  - {seq: 0, role: markers, filename: assets/KR4d0239_000.markers.yaml, hash: 'sha256:5cf680c0069ac0c3643983e03ee407c6de35dce6bf15f7215db83ca63ade4ea6'}
+  - {seq: 1, role: markers, filename: assets/KR4d0239_001.markers.yaml, hash: 'sha256:6184972f2dca39873252cf0f997d227f35a609321914a10f8341b4857c579656'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 倪石陵書
   type: section
   level: 1
-hash: sha256:6fbc774b8ac0638a7eb2729e3f498e1f62f78c933600f0d4caf2f9e9ea8bc6f9
+hash: sha256:cd60be76216b6d970e879398bc28eb0d4123ca59080769096190c4a463e87861
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
